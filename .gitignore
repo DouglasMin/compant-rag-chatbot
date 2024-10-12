@@ -1,0 +1,6 @@
+.env
+*.pdf
+parsed_output.md
+parsed_pages40/*
+company_rag/*
+prac/*
